@@ -540,11 +540,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "0fe7b042-84a1-4bec-9afa-a0aee159c1fa")
+			(uuid "0cae961e-f99b-4345-ae24-0c669312dab0")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG09")
 					(unit 1)
 				)
@@ -607,11 +607,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "5c5f9316-5c6e-4859-8a6e-3af53db577ad")
+			(uuid "860cf64d-e8e8-4798-8ef8-6aaa6493721f")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG04")
 					(unit 1)
 				)
@@ -674,11 +674,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "03b87cbf-d5b3-4208-9a8b-5783881d3ea0")
+			(uuid "fd6065c2-b4f7-47a3-ac28-8dc15fd0ee67")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG013")
 					(unit 1)
 				)
@@ -741,11 +741,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "84dab487-5eff-4b0e-afa8-427d8e6bd48e")
+			(uuid "dba48389-762c-4fe2-a65a-eb5176f50cf7")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG02")
 					(unit 1)
 				)
@@ -807,11 +807,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "29666f84-bd50-4948-8999-3749c31040a4")
+			(uuid "d9c90602-0a1b-48c1-b48d-e59d215cd6dc")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG01")
 					(unit 1)
 				)
@@ -873,11 +873,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "1095e2af-2d3d-4dae-a9fa-2b7c5d0039ca")
+			(uuid "e4021f97-1759-46f5-bedb-f6c2c85169f3")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG012")
 					(unit 1)
 				)
@@ -894,7 +894,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a285258-f27c-45d1-b684-bbce7d163833")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR013"
 			(at 114.3 107.95 0)
 			(effects
 				(font
@@ -940,12 +940,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "6ae18cc4-5c21-4aaa-9a75-abe4a5d3f035")
+			(uuid "1912e19a-fea9-4056-a846-fe3a468d7045")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
-					(reference "#PWR015")
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -1007,11 +1007,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "f263a193-c221-4705-b897-9c774a4bb846")
+			(uuid "f7b56cf3-774b-4a26-8a1a-3acd27a37b19")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG03")
 					(unit 1)
 				)
@@ -1073,11 +1073,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "80b433ce-7b3a-4578-8831-cf2de6fb490a")
+			(uuid "f0511d88-dd51-460a-8e08-3bea0c22f291")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG08")
 					(unit 1)
 				)
@@ -1140,11 +1140,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "3b0578b3-dd5d-456e-bbb6-eaeaf9003768")
+			(uuid "53192959-3217-4538-94f0-6c69eeb17a5d")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG014")
 					(unit 1)
 				)
@@ -1207,11 +1207,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "8bf9a48e-7bdf-402d-a06d-fa34a8457b65")
+			(uuid "8e96a5e4-1d62-48b3-976e-4d320f9fc809")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG011")
 					(unit 1)
 				)
@@ -1273,11 +1273,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "5004a6bc-1e81-4fad-a356-b89c32350323")
+			(uuid "503983f3-171a-47b7-abed-393dfcd4510a")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG05")
 					(unit 1)
 				)
@@ -1339,11 +1339,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "ceb1a2f3-5cac-424c-a1ee-c803809eea1e")
+			(uuid "36439ccd-f4e3-41d1-b84d-f80912db7b87")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG06")
 					(unit 1)
 				)
@@ -1405,11 +1405,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "ba10b2e1-b63a-4256-99ea-e677362de0b1")
+			(uuid "be94a4ba-efe0-4dd3-8b65-8585914c2e2e")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG07")
 					(unit 1)
 				)
@@ -1472,11 +1472,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "78533438-4dae-4c67-b7f0-b76973ebdc2e")
+			(uuid "e41a7b56-b23a-403c-9d64-aa006c958826")
 		)
 		(instances
 			(project "X17-Data-Conversion"
-				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/0b8e58cf-57de-43c7-a06e-43383990ca68"
+				(path "/05d63ee7-378c-48b6-bc84-90843392ec71/ed2c4a0f-581e-43cf-9e89-173fc8c704ce"
 					(reference "#FLG010")
 					(unit 1)
 				)

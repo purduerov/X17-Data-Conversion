@@ -388,12 +388,12 @@
       "Root"
     ],
     [
-      "c059e31e-65d5-4bde-9ee2-dcf6a0527ae1",
-      "RS485 Transceiver"
+      "ed2c4a0f-581e-43cf-9e89-173fc8c704ce",
+      "power flags"
     ],
     [
-      "0b8e58cf-57de-43c7-a06e-43383990ca68",
-      "power flags"
+      "78ef2b09-8493-4e17-9f78-45a6dd7ac4e9",
+      "RS485 Transceiver"
     ]
   ],
   "text_variables": {}
