@@ -1305,7 +1305,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 80.01) (xy 77.47 80.01)
+			(xy 62.23 80.01) (xy 77.47 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1507,22 +1507,22 @@
 	)
 	(global_label "USART1_RX"
 		(shape output)
-		(at 74.93 80.01 180)
+		(at 62.23 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "279e370d-2a05-43dd-9751-16578dfc8eec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.422 80.01 0)
+			(at 75.738 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
