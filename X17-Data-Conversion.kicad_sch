@@ -4189,7 +4189,7 @@
 			)
 		)
 	)
-	(global_label "NRST"
+	(global_label "NRST_PCB"
 		(shape input)
 		(at 226.06 130.81 180)
 		(fields_autoplaced yes)
@@ -4201,7 +4201,7 @@
 		)
 		(uuid "cd6c0d4e-2457-4a49-84de-394052ea830f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 218.2972 130.81 0)
+			(at 213.5196 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5159,7 +5159,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "BG030_-_-_-_6_-_-_X_-_XXX_-_-_REVG5:GCT_BG030_-_-_-_6_-_-_X_-_XXX_-_-_REVG5"
+		(property "Footprint" "61300611121:61300611121"
 			(at 203.2 148.59 0)
 			(effects
 				(font
@@ -5578,7 +5578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "BG030_-_-_-_6_-_-_X_-_XXX_-_-_REVG5:GCT_BG030_-_-_-_6_-_-_X_-_XXX_-_-_REVG5"
+		(property "Footprint" "61300611121:61300611121"
 			(at 237.49 123.19 0)
 			(effects
 				(font
@@ -5781,7 +5781,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM switch:SW4_1825910-B_TEC"
+		(property "Footprint" "footprints1:SW4_1825910-B_TEC"
 			(at 66.04 36.83 0)
 			(effects
 				(font
