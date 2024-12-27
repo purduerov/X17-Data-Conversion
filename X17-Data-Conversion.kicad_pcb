@@ -41,7 +41,7 @@
 	(setup
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
-		(grid_origin 125 121.5)
+		(grid_origin 140.75 105)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -8393,6 +8393,30 @@
 		(fill none)
 		(layer "Edge.Cuts")
 		(uuid "e567585a-47a5-4e4f-a1a8-55e85e4fb628")
+	)
+	(gr_text "X17 Data Conversion\n"
+		(at 186.25 190 0)
+		(layer "Dwgs.User")
+		(uuid "923177b6-f6c8-42e6-b426-dccc972dfd59")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "12/26/2024\n"
+		(at 208.25 194 0)
+		(layer "Dwgs.User")
+		(uuid "ba490fd2-2013-4d28-8f39-22a1422f5ca4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 156 90.5)
