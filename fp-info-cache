@@ -1,4 +1,4 @@
-23848311227940218
+23855253346356860
 61300611121
 61300611121
 <B>WR-PHD </B><BR> 2.54mm Pin Header, 6 Pin
@@ -6,6 +6,13 @@
 0
 6
 6
+AZ1117IH_3_3TRG1
+SOT230P700X185-4N
+
+
+0
+4
+4
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96781,3 +96788,24 @@ ABLS-8.000MHZ-B2-T
 0
 2
 2
+footprints3
+SOT-223_DIO
+
+AZ1117CH-3.3TRG1 
+0
+4
+4
+footprints3
+SOT-223_DIO-L
+
+AZ1117CH-3.3TRG1 
+0
+4
+4
+footprints3
+SOT-223_DIO-M
+
+AZ1117CH-3.3TRG1 
+0
+4
+4
